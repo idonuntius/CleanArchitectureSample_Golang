@@ -1,0 +1,19 @@
+
+# Binaries for programs and plugins
+/app/*.exe
+/app/*.exe~
+/app/*.dll
+/app/*.so
+/app/*.dylib
+
+# Test binary, built with `go test -c`
+/app/*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+/app/*.out
+
+# Dependency directories (remove the comment below to include it)
+# vendor/
+
+# env file
+/app/.env
